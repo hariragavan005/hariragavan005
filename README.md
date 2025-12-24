@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Hari Haran G
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+MCA+Graduate;Full+Stack+Developer;AI+%7C+RAG+Enthusiast;Life+is+easier+with+source+code;Building+Smart+Applications" 
+    src="https://readme-typing-svg.herokuapp.com/?size=22&duration=3000&color=6F8D6A&center=true&vCenter=true&width=650&lines=Aspiring+MCA+Graduate;Full+Stack+Developer;AI+%7C+RAG+Enthusiast;Life+is+easier+with+source+code;Building+Smart+Applications" 
   />
  
 ## 🚀 About Me
