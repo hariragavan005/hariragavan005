@@ -9,11 +9,11 @@
 <tr>
 <td width="65%" valign="top">
 
-- 🎓 Aspiring **MCA Graduate** with a strong interest in **Full-Stack Development and AI-driven applications**
-- 💡 Passionate about building **intelligent, scalable, and user-friendly systems**
-- 🤖 Hands-on experience with **RAG-based chatbots, document verification, and ML projects**
-- 🌱 Currently learning **React, backend optimization, and AI integration into web applications**
-- 🎯 Focused on building **real-world projects that solve practical problems**
+-  Aspiring **MCA Graduate** with a strong interest in **Full-Stack Development and AI-driven applications**
+-  Passionate about building **intelligent, scalable, and user-friendly systems**
+-  Hands-on experience with **RAG-based chatbots, document verification, and ML projects**
+-  Currently learning **React, backend optimization, and AI integration into web applications**
+-  Focused on building **real-world projects that solve practical problems**
 
 </td>
 <td width="35%" align="center">
@@ -25,12 +25,12 @@
 </table>
 
 
-## 🧠 Current Focus
+##  Current Focus
 
-- 🔭 Building **RAG-based AI Chatbots**
-- ⚙️ Integrating **AI into Full-Stack Web Applications**
-- 🧪 Exploring **Deep Learning for document forgery detection**
-- 📚 Strengthening **DSA & Computer Science fundamentals**
+-  Building **RAG-based AI Chatbots**
+-  Integrating **AI into Full-Stack Web Applications**
+-  Exploring **Deep Learning for document forgery detection**
+-  Strengthening **DSA & Computer Science fundamentals**
 
 ## 🛠️ Tech Stack
  **Languages:**
